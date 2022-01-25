@@ -5,12 +5,12 @@
 - 🌱 Estou aprendendo mais sobre Vue.js e Node.js
 - ⚡ Objetvos para 2020: Aprender Typescript e terminar todos os meus projatos pessoais 2/6
 
-<div align="center">
+<div>
   <a href="https://github.com/JorgeCleres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgecleres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecleres&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="center"><br>
+<div><br>
   <img align="center" alt="Jorge-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jorge-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Jorge-Vue" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -22,7 +22,7 @@
   
   ##
  
-<div align="center"> 
+<div> 
   <a href="https://www.linkedin.com/in/jorge-cleres-b792aba6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
