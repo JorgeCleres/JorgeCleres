@@ -3,7 +3,7 @@
 
 - 🔭 Hoje Estou trabalhando com front-end e JDE
 - 🌱 Estou aprendendo mais sobre Vue.js e Node.js
-- ⚡ Objetvos para 2020: Aprender Typescript e terminar todos os meus projetos pessoais 2/6
+- ⚡ Objetvos para 2022: Aprender Typescript e terminar todos os meus projetos pessoais 2/6
 
 <div>
   <a href="https://github.com/JorgeCleres">
