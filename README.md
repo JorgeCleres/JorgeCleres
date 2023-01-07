@@ -5,11 +5,6 @@
 - 🌱 Estou aprendendo mais sobre Vue.js e Node.js
 - ⚡ Objetvos para 2022: Aprender Typescript e terminar todos os meus projetos pessoais 2/6
 
-<div>
-  <a href="https://github.com/JorgeCleres">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jorgecleres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecleres&hide=hack&layout=compact&langs_count=7&theme=dark&include_all_commits=true"/>
-</div>
 <div><br>
   <img align="center" alt="Jorge-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jorge-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -19,4 +14,10 @@
   <img align="center" alt="Jorge-PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Jorge-Mysql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Jorge-Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+<div>
+  <a href="https://github.com/JorgeCleres">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=jorgecleres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgecleres&hide=hack&layout=compact&langs_count=7&theme=dark&include_all_commits=true"/>
 </div>
