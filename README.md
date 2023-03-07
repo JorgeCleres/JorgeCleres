@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje Estou trabalhando com front-end e JDE
-- 🌱 Estou aprendendo mais sobre Vue.js e Node.js
-- ⚡ Objetvos para 2022: Aprender Typescript e terminar todos os meus projetos pessoais 2/6
+- 🌱 Estou aprendendo mais sobre Vue.js, React e Node.js
+- ⚡ Objetvos para 2022: Aprender Typescript
 
 <div>
   <img align="center" alt="Jorge-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
