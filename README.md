@@ -1,9 +1,9 @@
-### Oi eu sou <s>Goku</s> Jorge Cleres 👋
+### Hi, I'am <s>Goku</s> Jorge Cleres 👋
 
 
-- 🔭 Dev Front-end Vue.js e back-end
-- 🔭 Dev Back-end PHP e Node.js
-- 🌱 Estou aprendendo mais sobre Typescript
+- 🔭 Dev Front-end Vue.js and back-end
+- 🔭 Dev Back-end PHP and Node.js
+- 🌱 I'am learning more about Typescript
 
 <div>
   <img align="center" alt="Jorge-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
