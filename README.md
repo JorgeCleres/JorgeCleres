@@ -2,8 +2,7 @@
 
 
 - 🔭 Dev Full Stack
-- 🌱 I'am learning more about Typescript
-
+  
 <div>
   <img align="center" alt="Jorge-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jorge-Node" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
